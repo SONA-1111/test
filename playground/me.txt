@@ -1,3 +1,0 @@
-Name: Sonam Jaiswal
-Skills: HTML, CSS, JS, React.js, Node.JS, Express.Js, MongoDB
-Email: sonam.jaiswal0983@gmail.com
